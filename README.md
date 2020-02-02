@@ -1,4 +1,4 @@
-# [Memory Main](https://ifielf.github.io/Memory)
+# [Memory Main](https://ifielf.github.io/Memory_T)
 |큐트|쿨|패션|
 |--|--|--|
 |시마무라 우즈키|칸자키 란코|사토 신|
