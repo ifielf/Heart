@@ -1,7 +1,7 @@
 # [Memory Main](https://ifielf.github.io/Memory)
 |큐트|쿨|패션|
 |--|--|--|
-|시마무라 우즈키|칸자키 란코|사토 신(https://ifielf.github.io/Memory/12008305/idol_gallery/197/)|
+|시마무라 우즈키|칸자키 란코|[사토 신](https://ifielf.github.io/Memory/12008305/idol_gallery/197/)|
 |사쿠마 마유|사기사와 후미카|요리타 요시노|
 |이치노세 시키|타카가키 카에데|유메미 리아무|
 |이가라시 쿄코|타카후지 카코|오오츠키 유이|
