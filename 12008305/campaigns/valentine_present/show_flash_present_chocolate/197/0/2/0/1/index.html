@@ -62,8 +62,8 @@
         <div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:240px; height:310px; position: absolute; left: 0px; top: 0px; display: block;"></div>
     </div>
     <script>
-        var image_server = "https://ifielf.github.io/Memory/12008305/";
-        var base_url = "";
+        var image_server = "";
+        var base_url = "https://ifielf.github.io/Memory/12008305/";
         window.file_name = "valentine_2020"; // createjs の本体ファイルを定義
         window.dir_name = "image_sp/cjs/campaign/valentine/2020/";
         window.replace_images = {
@@ -126,8 +126,8 @@
                     }
                     new_manifest[i] = {
                         'type': 'image',
-                        'src': window.image_server + encodeURIComponent(window.base_url + _img_path)// 임시,
-                        // 임시'id': lib.properties.manifest[i].id
+                        'src': window.image_server + encodeURIComponent(window.base_url + _img_path),
+                        'id': lib.properties.manifest[i].id
                     }
                 }
                 loader.loadManifest(new_manifest);
