@@ -119,7 +119,7 @@
                 });
                 var new_manifest = [];
                 for (var i = 0, len = lib.properties.manifest.length; i < len; i++) {
-                    var _img_path = window.dir_name;
+                    var _img_path = window.dir_name + lib.properties.manifest[i].src;
                     var _prefix = lib.properties.manifest[i].id.replace(window.file_name + '_', '');
                     if (window.replace_images[_prefix]) {
                         _img_path = 'image_sp/' + window.replace_images[_prefix];
