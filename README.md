@@ -4,7 +4,7 @@
 |사쿠마 마유|칸자키 란코|[사토 신](https://ifielf.github.io/Memory/12008305/idol_gallery/197/)|
 
 # [발렌타인 초콜릿 원본링크 사토신(197)](http://sp.pf.mbga.jp/12008305/?guid=ON&url=http://125.6.169.35/idolmaster/campaigns/valentine_present/show_flash_present_chocolate/197/0/2/0/1)
-# [발렌타인 초콜릿 수정링크 사토신(197)](https://ifielf.github.io/Memory/12008305/event/Valentine2018/197/)
+# [발렌타인 초콜릿 수정링크 사토신(197)](https://ifielf.github.com/Memory/12008305/campaigns/valentine_present/show_flash_present_chocolate/197/0/2/0/1)
 
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
